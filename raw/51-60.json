@@ -1,0 +1,507 @@
+{
+  "Name": "Eureka Orthos Mobs 51-60F",
+  "Group": "Eureka Orthos",
+  "ZoneLockH": [
+    1104
+  ],
+  "ElementsL": [
+    {
+      "Name": "Sight",
+      "type": 4,
+      "Enabled": false,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "FillStep": 15.0,
+      "refActorType": 2,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Proximity",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sound",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sight Range",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "dot",
+      "type": 1,
+      "Enabled": false,
+      "radius": 0.0,
+      "refActorType": 2
+    },
+    {
+      "Name": "Orthos Oceanus (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12174,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Oceanus (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12174,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Oceanus (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12174,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Ymir (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12183,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Ymir (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12183,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Ymir (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12183,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Rockfin (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12182,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Rockfin (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12182,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Rockfin (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12182,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Ice Sprite (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12180,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Ice Sprite (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12180,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Ice Sprite (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12180,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Leech (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12178,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Leech (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12178,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Leech (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12178,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Yabby (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12176,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Yabby (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12176,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Yabby (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12176,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Big Claw (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12175,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Big Claw (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12175,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Big Claw (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12175,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Craklaw (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12318,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Craklaw (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12318,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Craklaw (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12318,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Bombfish (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12181,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Bombfish (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12181,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Bombfish (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12181,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Piranu (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12177,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Piranu (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12177,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Piranu (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12177,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Stingray (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12173,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Stingray (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12173,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Stingray (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12173,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Zaratan (Sound)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorNPCNameID": 12179,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Zaratan (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12179,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Banshee (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12171,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Monk (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12172,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[BOSS] Bullish Swing",
+      "type": 1,
+      "radius": 7.0,
+      "refActorNPCNameID": 12267,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31875
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Bullish Swipe",
+      "type": 4,
+      "radius": 40.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "refActorNPCNameID": 12267,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        30744,
+        30745,
+        31868,
+        31869,
+        31870,
+        31871,
+        31877,
+        32795
+      ],
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Thunder (?)",
+      "type": 1,
+      "radius": 5.0,
+      "refActorNameIntl": {
+        "Jp": "雷球"
+      }
+    },
+    {
+      "Name": "[AoE] Orthos Ice Sprite (Hypothermal Combustion)",
+      "type": 1,
+      "radius": 6.0,
+      "color": 3355463806,
+      "refActorNPCNameID": 12180,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        3156,
+        4527,
+        7067,
+        7172,
+        9785,
+        10990,
+        11566,
+        11569,
+        12194,
+        14689,
+        14731,
+        23871,
+        24567,
+        26243,
+        27404,
+        32496
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    }
+  ],
+  "MaxDistance": 40.0,
+  "UseDistanceLimit": true,
+  "DistanceLimitType": 1
+}

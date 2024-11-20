@@ -1,0 +1,478 @@
+{
+  "Name": "Eureka Orthos Mobs 41-50F",
+  "Group": "Eureka Orthos",
+  "ZoneLockH": [
+    1103
+  ],
+  "ElementsL": [
+    {
+      "Name": "Sight",
+      "type": 4,
+      "Enabled": false,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "FillStep": 15.0,
+      "refActorType": 2,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Proximity",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sound",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sight Range",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "dot",
+      "type": 1,
+      "Enabled": false,
+      "radius": 0.0,
+      "refActorType": 2
+    },
+    {
+      "Name": "Orthos Huwasi (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12165,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Huwasi (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12165,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Huwasi (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12165,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Acheron (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12166,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Acheron (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12166,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Acheron (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12166,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Abaia (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12167,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Abaia (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12167,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Abaia (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12167,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Spriggan (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12159,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Spriggan (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12159,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Spriggan (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12159,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Hedetet (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12169,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Hedetet (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12169,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Hedetet (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12169,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Kelpie (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12162,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Kelpie (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12162,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Kelpie (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12162,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Goobbue (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12168,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Goobbue (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12168,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Goobbue (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12168,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Kukulkan (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12163,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Kukulkan (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12163,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Kukulkan (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12163,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Gelato (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12158,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Gelato (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12158,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Gelato (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12158,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Hoarhound (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12164,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Hoarhound (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12164,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Hoarhound (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12164,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Bergthurs (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12160,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Mudman (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12170,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Apa (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12161,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[BOSS] Rightbreathed Cold",
+      "type": 3,
+      "refX": 40.0,
+      "refY": 40.0,
+      "offX": 40.0,
+      "offY": -40.0,
+      "radius": 40.0,
+      "refActorNPCNameID": 12265,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31863
+      ],
+      "refActorComparisonType": 6,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Leftbreathed Thunder",
+      "type": 3,
+      "refX": -40.0,
+      "refY": 40.0,
+      "offX": -40.0,
+      "offY": -40.0,
+      "radius": 40.0,
+      "refActorNPCNameID": 12265,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31861
+      ],
+      "refActorComparisonType": 6,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Thunderous Cold",
+      "type": 1,
+      "radius": 2.0,
+      "Donut": 60.0,
+      "color": 3372155032,
+      "thicc": 20.0,
+      "refActorNPCNameID": 12265,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31852,
+        31856
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[BOSS] Cold Thunder",
+      "type": 1,
+      "radius": 2.9,
+      "color": 3372220160,
+      "thicc": 20.0,
+      "refActorNPCNameID": 12265,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31851,
+        31855
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Kelpie (Bloody Puddle)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355463806,
+      "refActorNPCNameID": 12162,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        9812,
+        9813,
+        9814,
+        13443,
+        32460
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    }
+  ],
+  "MaxDistance": 40.0,
+  "UseDistanceLimit": true,
+  "DistanceLimitType": 1
+}

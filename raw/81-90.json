@@ -1,0 +1,518 @@
+{
+  "Name": "Eureka Orthos Mobs 81-90F",
+  "Group": "Eureka Orthos",
+  "ZoneLockH": [
+    1107
+  ],
+  "ElementsL": [
+    {
+      "Name": "Sight",
+      "type": 4,
+      "Enabled": false,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "FillStep": 15.0,
+      "refActorType": 2,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Proximity",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sound",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sight Range",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "dot",
+      "type": 1,
+      "Enabled": false,
+      "radius": 0.0,
+      "refActorType": 2
+    },
+    {
+      "Name": "Orthos Catoblepas (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12218,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Catoblepas (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12218,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Catoblepas (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12218,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Deepeye (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12210,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Deepeye (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12210,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Deepeye (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12210,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Pudding (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12213,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Pudding (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12213,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Pudding (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12213,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Abyss (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12222,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Abyss (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12222,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Abyss (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12222,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Spartoi (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12211,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Spartoi ((Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12211,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Spartoi ((dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12211,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Pegasus (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12219,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Pegasus (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12219,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Pegasus (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12219,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Ahriman (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12216,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Ahriman (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12216,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Ahriman (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12216,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Hecteyes (Sound)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorNPCNameID": 12212,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Hecteyes (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12212,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthoiron Corse (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12217,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Persona (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12214,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Gourmand (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12215,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Wraith (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12220,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Specter (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12221,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[BOSS] Aetherochemical Laser α",
+      "type": 4,
+      "radius": 60.0,
+      "coneAngleMin": -60,
+      "coneAngleMax": 60,
+      "refActorNPCNameID": 12103,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31451,
+        32832,
+        32884
+      ],
+      "refActorComparisonType": 6,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Aetherochemical Laser β",
+      "type": 3,
+      "refY": 60.0,
+      "radius": 0.0,
+      "color": 3372174336,
+      "refActorNPCNameID": 12104,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31452,
+        32833
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true
+    },
+    {
+      "Name": "[AoE] Orthos Spartoi (Triple Trial)",
+      "type": 4,
+      "radius": 12.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355484415,
+      "refActorNPCNameID": 12211,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        5478,
+        5850,
+        5987,
+        30355,
+        32740
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Wraith (Scream)",
+      "type": 1,
+      "radius": 18.0,
+      "color": 3355463806,
+      "refActorNPCNameID": 12220,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        594,
+        6410,
+        6433,
+        7145,
+        9531,
+        12195,
+        32772
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthoiron Corse (Glass Punch)",
+      "type": 4,
+      "radius": 5.0,
+      "coneAngleMin": -60,
+      "coneAngleMax": 60,
+      "color": 3355484415,
+      "refActorNPCNameID": 12217,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        6877,
+        6904,
+        9536,
+        10613,
+        11912,
+        19063,
+        32399,
+        32759
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Specter (Left Sweep)",
+      "type": 4,
+      "radius": 20.0,
+      "coneAngleMin": 180,
+      "coneAngleMax": 405,
+      "color": 3355484415,
+      "refActorNPCNameID": 12221,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31076,
+        31100,
+        32776
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Specter (Right Sweep)",
+      "type": 4,
+      "radius": 20.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 180,
+      "color": 3355484415,
+      "refActorNPCNameID": 12221,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31075,
+        31099,
+        32777
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Specter (Ringing Burst)",
+      "type": 1,
+      "radius": 5.0,
+      "Donut": 20.0,
+      "color": 3355484415,
+      "refActorNPCNameID": 12221,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        32775
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true
+    },
+    {
+      "Name": "[AoE] Orthos Specter (Surrounding Burst)",
+      "type": 1,
+      "radius": 15.0,
+      "color": 3355463806,
+      "refActorNPCNameID": 12221,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        32774
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Pegasus (Nicker)",
+      "type": 1,
+      "radius": 12.0,
+      "color": 3355463806,
+      "refActorNPCNameID": 12219,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        7757,
+        12307,
+        18071,
+        21668,
+        26781,
+        28772,
+        32768
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    }
+  ],
+  "MaxDistance": 40.0,
+  "UseDistanceLimit": true,
+  "DistanceLimitType": 1
+}

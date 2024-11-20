@@ -1,0 +1,632 @@
+{
+  "Name": "Eureka Orthos Mobs 71-80F",
+  "Group": "Eureka Orthos",
+  "ZoneLockH": [
+    1106
+  ],
+  "ElementsL": [
+    {
+      "Name": "Sight",
+      "type": 4,
+      "Enabled": false,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "FillStep": 15.0,
+      "refActorType": 2,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Proximity",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sound",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Sight Range",
+      "type": 1,
+      "Enabled": false,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorType": 2,
+      "includeHitbox": true
+    },
+    {
+      "Name": "dot",
+      "type": 1,
+      "Enabled": false,
+      "radius": 0.0,
+      "refActorType": 2
+    },
+    {
+      "Name": "Orthos Coeurl (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12200,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Coeurl (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12200,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Coeurl (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12200,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Toco Toco (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12197,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Toco Toco (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12197,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Toco Toco (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12197,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Unicorn (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12199,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Unicorn (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12199,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Unicorn (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12199,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Primelephas (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12204,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Primelephas (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12204,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Primelephas (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12204,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Gulo Gulo (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12202,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Gulo Gulo (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12202,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Gulo Gulo (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12202,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Thunderbeast (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12207,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Thunderbeast (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12207,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Thunderbeast (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12207,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Wolf (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12201,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Wolf (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12201,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Wolf (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12201,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Kargas (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12209,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Kargas (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12209,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Kargas (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12209,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Bird of Orthos (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12206,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Bird of Orthos (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12206,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Bird of Orthos (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12206,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Sasquatch (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12203,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Sasquatch (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12203,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Sasquatch (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12203,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Flamebeast (Sight)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355508480,
+      "thicc": 0.0,
+      "refActorNPCNameID": 12208,
+      "FillStep": 15.0,
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "Orthos Flamebeast (Sight Range)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3355508480,
+      "refActorNPCNameID": 12208,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Flamebeast (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12208,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthos Skatene (Sound)",
+      "type": 1,
+      "radius": 10.0,
+      "color": 3372155099,
+      "refActorNPCNameID": 12198,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "Orthos Skatene (dot)",
+      "type": 1,
+      "radius": 0.0,
+      "refActorNPCNameID": 12198,
+      "refActorComparisonType": 6
+    },
+    {
+      "Name": "Orthokunoichi (Proximity)",
+      "type": 1,
+      "radius": 10.0,
+      "refActorNPCNameID": 12205,
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[BOSS] Rightward Nerve Gas",
+      "type": 4,
+      "radius": 40.0,
+      "coneAngleMin": 45,
+      "coneAngleMax": 225,
+      "refActorNPCNameID": 12247,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31425,
+        32935
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Leftward Nerve Gas",
+      "type": 4,
+      "radius": 40.0,
+      "coneAngleMin": 135,
+      "coneAngleMax": 315,
+      "refActorNPCNameID": 12247,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31424,
+        32934
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Centralized Nerve Gas",
+      "type": 4,
+      "radius": 40.0,
+      "coneAngleMin": -60,
+      "coneAngleMax": 60,
+      "refActorNPCNameID": 12247,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        31423,
+        32933
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[BOSS] Nerve Gas Ring",
+      "type": 1,
+      "radius": 8.0,
+      "Donut": 40.0,
+      "refActorNPCNameID": 12247,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        32930
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[BOSS] Cross AoE",
+      "type": 2,
+      "refX": -600.0,
+      "refY": -350.0,
+      "offX": -600.0,
+      "offY": -250.0,
+      "radius": 2.0,
+      "FillStep": 1.0
+    },
+    {
+      "Name": "[BOSS] Cross AoE",
+      "type": 2,
+      "refX": -650.0,
+      "refY": -300.0,
+      "offX": -550.0,
+      "offY": -300.0,
+      "radius": 2.0,
+      "FillStep": 1.0
+    },
+    {
+      "Name": "[AoE] Orthos Primelephas (Rear)",
+      "type": 1,
+      "radius": 6.0,
+      "color": 3355463806,
+      "refActorNPCNameID": 12204,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        14953
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Coeurl (Tail Swing)",
+      "type": 4,
+      "radius": 20.0,
+      "coneAngleMin": 150,
+      "coneAngleMax": 210,
+      "color": 3355484927,
+      "refActorNPCNameID": 12200,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        7222,
+        7919,
+        9550,
+        10325,
+        10348,
+        10812,
+        11451,
+        13461,
+        14002,
+        15338,
+        17029,
+        17203,
+        17242,
+        18110,
+        20326,
+        21500,
+        21584,
+        22367,
+        32279,
+        32647
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Toco Toco (Slowcall)",
+      "type": 4,
+      "radius": 10.0,
+      "coneAngleMin": -45,
+      "coneAngleMax": 45,
+      "color": 3355463806,
+      "refActorNPCNameID": 12197,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        924,
+        11777,
+        17525,
+        25988,
+        32635
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true,
+      "Filled": true
+    },
+    {
+      "Name": "[AoE] Orthos Thunderbeast (Spark)",
+      "type": 1,
+      "radius": 5.0,
+      "Donut": 10.0,
+      "color": 3355484927,
+      "refActorNPCNameID": 12207,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        3432,
+        3433,
+        7663,
+        7664,
+        9565,
+        10598,
+        13431,
+        14836,
+        14837,
+        27221,
+        32216,
+        32660
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true
+    },
+    {
+      "Name": "[AoE] Orthos Sasquatch",
+      "type": 1,
+      "radius": 0.0,
+      "color": 3355484415,
+      "thicc": 0.0,
+      "overlayText": "Gorilla",
+      "refActorNPCNameID": 12203,
+      "refActorComparisonType": 6,
+      "tether": true
+    },
+    {
+      "Name": "[AoE] Orthos Flamebeast (Blistering Roar)",
+      "type": 3,
+      "refY": 40.0,
+      "radius": 6.0,
+      "color": 3355484415,
+      "refActorNPCNameID": 12208,
+      "refActorRequireCast": true,
+      "refActorCastId": [
+        15010,
+        33199
+      ],
+      "refActorComparisonType": 6,
+      "includeHitbox": true,
+      "includeRotation": true
+    }
+  ],
+  "MaxDistance": 40.0,
+  "UseDistanceLimit": true,
+  "DistanceLimitType": 1
+}
