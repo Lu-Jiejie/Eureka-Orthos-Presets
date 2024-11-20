@@ -1,0 +1,67 @@
+{
+  "name": "eureka-orthos-presets",
+  "type": "module",
+  "version": "0.0.0",
+  "packageManager": "pnpm@9.1.2",
+  "description": "pkg-description",
+  "author": "Lu-Jiejie <lu-jiejie@outlook.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Lu-Jiejie/Eureka-Orthos-Presets#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lu-Jiejie/Eureka-Orthos-Presets.git"
+  },
+  "bugs": "https://github.com/Lu-Jiejie/Eureka-Orthos-Presets/issues",
+  "keywords": [],
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "main": "./dist/index.mjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": [
+        "./dist/*",
+        "./dist/index.d.ts"
+      ]
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "unbuild --stub",
+    "build": "unbuild",
+    "lint": "eslint .",
+    "release": "bumpp && npm publish",
+    "start": "esno src/index.ts",
+    "test": "vitest",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "nr build",
+    "prepare": "simple-git-hooks"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.18.1",
+    "@types/node": "^20.12.12",
+    "bumpp": "^9.4.1",
+    "eslint": "^9.3.0",
+    "esno": "^4.7.0",
+    "lint-staged": "^15.2.4",
+    "simple-git-hooks": "^2.11.1",
+    "typescript": "^5.4.5",
+    "unbuild": "^2.0.0",
+    "vitest": "^1.6.0"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
+  }
+}
