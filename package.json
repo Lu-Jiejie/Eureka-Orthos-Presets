@@ -52,6 +52,7 @@
     "bumpp": "^9.4.1",
     "eslint": "^9.3.0",
     "esno": "^4.7.0",
+    "ky": "^1.7.2",
     "lint-staged": "^15.2.4",
     "simple-git-hooks": "^2.11.1",
     "typescript": "^5.4.5",
