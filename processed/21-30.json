@@ -20,7 +20,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统双足飞龙"
     },
     {
@@ -38,7 +38,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统布罗宾雅克"
     },
     {
@@ -56,8 +56,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统铁巨人(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统铁巨人"
     },
     {
       "Name": "正统骑士(视线)",
@@ -74,7 +74,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统骑士"
     },
     {
@@ -92,7 +92,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统机甲"
     },
     {
@@ -110,7 +110,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统雷蛟"
     },
     {
@@ -128,7 +128,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统蓝龙"
     },
     {
@@ -146,7 +146,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统薇薇尔飞龙"
     },
     {
@@ -164,8 +164,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统婆那罗(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统婆那罗"
     },
     {
       "Name": "正统卡利亚(视线)",
@@ -182,7 +182,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统卡利亚"
     },
     {
@@ -200,7 +200,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统龟甲龙"
     },
     {
@@ -218,8 +218,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统小龙(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统小龙"
     },
     {
       "Name": "正统破坏者(距离)",
@@ -231,7 +231,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统破坏者"
     },
     {

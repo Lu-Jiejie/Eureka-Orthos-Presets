@@ -20,8 +20,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统眼镜蛇(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统眼镜蛇"
     },
     {
       "Name": "正统玛塔蛇颈龟(视线)",
@@ -38,7 +38,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统玛塔蛇颈龟"
     },
     {
@@ -56,7 +56,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统翼蜥"
     },
     {
@@ -74,7 +74,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统飞巨蜥"
     },
     {
@@ -92,8 +92,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统高牢怪龙(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统高牢怪龙"
     },
     {
       "Name": "正统烈阳火蛟(视线)",
@@ -110,7 +110,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统烈阳火蛟"
     },
     {
@@ -128,7 +128,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统石蜥蜴"
     },
     {
@@ -146,7 +146,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统阿那罗"
     },
     {
@@ -164,7 +164,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统哈奥卡"
     },
     {
@@ -182,7 +182,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统法拉克"
     },
     {
@@ -200,7 +200,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统侏儒避役"
     },
     {
@@ -213,8 +213,8 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
-      "overlayText": "正统忍者(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统忍者"
     },
     {
       "Name": "正统笠头螈(距离)",
@@ -226,7 +226,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统笠头螈"
     },
     {

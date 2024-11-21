@@ -20,7 +20,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统改造鸟人"
     },
     {
@@ -38,7 +38,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统沙布提"
     },
     {
@@ -56,8 +56,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统镜骑士(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统镜骑士"
     },
     {
       "Name": "正统拉米亚(视线)",
@@ -74,7 +74,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统拉米亚"
     },
     {
@@ -92,8 +92,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统那迦(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统那迦"
     },
     {
       "Name": "正统铁血战士(视线)",
@@ -110,7 +110,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统铁血战士"
     },
     {
@@ -128,7 +128,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统弥诺陶洛斯"
     },
     {
@@ -146,7 +146,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统爬虫半人马"
     },
     {
@@ -164,9 +164,9 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
-      "fillIntensity": 0.15,
-      "overlayText": "正统幻影光(巡逻怪)"
+      "overlayTextColor": 3355471871,
+      "fillIntensity": 0.1,
+      "overlayText": "正统幻影光"
     },
     {
       "Name": "正统疫虫(声音)",
@@ -178,7 +178,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统疫虫"
     },
     {
@@ -191,7 +191,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统蜘蛛"
     },
     {
@@ -204,7 +204,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统发条虫"
     },
     {
@@ -216,10 +216,10 @@
       "refActorComparisonType": 6,
       "includeHitbox": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
+      "overlayTextColor": 3355471871,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统奇美拉"
     },
     {

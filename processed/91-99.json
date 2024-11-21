@@ -20,8 +20,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统自控化弥诺陶洛斯(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统自控化弥诺陶洛斯"
     },
     {
       "Name": "正统斯芬克斯(视线)",
@@ -38,7 +38,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统斯芬克斯"
     },
     {
@@ -56,7 +56,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统扎戈斧龙"
     },
     {
@@ -74,8 +74,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统自控化奇美拉(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统自控化奇美拉"
     },
     {
       "Name": "正统恐慌装甲(视线)",
@@ -92,7 +92,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统恐慌装甲"
     },
     {
@@ -110,7 +110,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统整备工"
     },
     {
@@ -128,7 +128,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统米特里达梯"
     },
     {
@@ -141,7 +141,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统采掘无人机"
     },
     {
@@ -154,7 +154,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统浮游炮主板"
     },
     {
@@ -167,7 +167,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统无人机"
     },
     {
@@ -180,7 +180,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统系统α"
     },
     {
@@ -193,8 +193,8 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
-      "overlayText": "正统系统γ(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统系统γ"
     },
     {
       "Name": "正统杜尔迦(距离)",
@@ -206,7 +206,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统杜尔迦"
     },
     {

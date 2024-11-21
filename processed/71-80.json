@@ -20,8 +20,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统长须豹(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统长须豹"
     },
     {
       "Name": "正统巨嘴鸟(视线)",
@@ -38,7 +38,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统巨嘴鸟"
     },
     {
@@ -56,7 +56,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统独角兽"
     },
     {
@@ -74,7 +74,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统曙象"
     },
     {
@@ -92,7 +92,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统狼獾"
     },
     {
@@ -110,8 +110,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统雷兽(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统雷兽"
     },
     {
       "Name": "正统凶狼(视线)",
@@ -128,7 +128,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统凶狼"
     },
     {
@@ -146,7 +146,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统卡尔加斯"
     },
     {
@@ -164,7 +164,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统妖鸟"
     },
     {
@@ -182,7 +182,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统大脚巨猿"
     },
     {
@@ -200,8 +200,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
-      "fillIntensity": 0.15,
+      "overlayTextColor": 3355471871,
+      "fillIntensity": 0.1,
       "overlayText": "正统焰兽"
     },
     {
@@ -214,7 +214,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统斯卡尼特"
     },
     {
@@ -227,8 +227,8 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
-      "overlayText": "正统女忍(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统女忍"
     },
     {
       "Name": "正统女忍(巡逻怪箭头)",

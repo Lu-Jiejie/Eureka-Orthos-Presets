@@ -51,9 +51,9 @@ rawFiles.forEach(async (rawFile) => {
     elements[i].overlayVOffset = -0.5
 
     const mobInfo = mobsData[elements[i].refActorNPCNameID as number]
-    let overlayTextSuffix = ''
+    let overlayTextPrefix = ''
     if (mobInfo.Patrol === 'True') {
-      overlayTextSuffix = '(巡逻怪)'
+      overlayTextPrefix = ''
       elements.push({
         Name: `${l10nName}(巡逻怪箭头)`,
         type: 3,
@@ -74,7 +74,7 @@ rawFiles.forEach(async (rawFile) => {
       })
     }
     else if (mobInfo.Patrol === 'True') {
-      overlayTextSuffix = '(精英怪)'
+      overlayTextPrefix = ''
     }
 
     // 危险等级
@@ -92,24 +92,24 @@ rawFiles.forEach(async (rawFile) => {
       elements[i].Name = `${l10nName}(视线)`
       elements[i].color = RED_COLOR
       elements[i].thicc = 1
-      elements[i].fillIntensity = 0.15
-      elements[i].overlayText = `${l10nName}${overlayTextSuffix}`
+      elements[i].fillIntensity = 0.1
+      elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
     }
     // 处理声音怪
     else if (oldName.includes('(Sound)')) {
       elements[i].Name = `${l10nName}(声音)`
       elements[i].color = PURPLE_COLOR
       elements[i].thicc = 1
-      elements[i].fillIntensity = 0.15
-      elements[i].overlayText = `${l10nName}${overlayTextSuffix}`
+      elements[i].fillIntensity = 0.1
+      elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
     }
     // 处理距离怪
     else if (oldName.includes('(Proximity)')) {
       elements[i].Name = `${l10nName}(距离)`
       elements[i].color = RED_COLOR
       elements[i].thicc = 1
-      elements[i].fillIntensity = 0.15
-      elements[i].overlayText = `${l10nName}${overlayTextSuffix}`
+      elements[i].fillIntensity = 0.1
+      elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
     }
   }
   const jsonString = JSON.stringify(content, null, 2)

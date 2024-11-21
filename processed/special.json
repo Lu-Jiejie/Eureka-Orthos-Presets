@@ -31,7 +31,7 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.15,
-      "overlayText": "拉米亚女王(精英怪)",
+      "overlayText": "拉米亚女王",
       "overlayTextColor": 4278190280
     },
     {
@@ -50,7 +50,7 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.15,
-      "overlayText": "美拉西迪亚复制体(精英怪)",
+      "overlayText": "美拉西迪亚复制体",
       "overlayTextColor": 4278190280
     },
     {
@@ -69,7 +69,7 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.15,
-      "overlayText": "亚灵智慧之灵(精英怪)",
+      "overlayText": "亚灵智慧之灵",
       "overlayTextColor": 4278190280
     }
   ],

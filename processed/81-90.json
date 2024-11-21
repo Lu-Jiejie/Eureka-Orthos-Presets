@@ -20,8 +20,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
-      "fillIntensity": 0.15,
+      "overlayTextColor": 3355471871,
+      "fillIntensity": 0.1,
       "overlayText": "正统卡托布莱帕斯"
     },
     {
@@ -39,7 +39,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统深瞳"
     },
     {
@@ -57,7 +57,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统软糊怪"
     },
     {
@@ -75,7 +75,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统深渊"
     },
     {
@@ -93,7 +93,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统地生人"
     },
     {
@@ -111,7 +111,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统黑天马"
     },
     {
@@ -129,7 +129,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统冥鬼之眼"
     },
     {
@@ -142,7 +142,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统百目妖"
     },
     {
@@ -153,11 +153,11 @@
       "refActorComparisonType": 6,
       "includeHitbox": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
+      "overlayTextColor": 3355471871,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
-      "overlayText": "正统铁面腐尸(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统铁面腐尸"
     },
     {
       "Name": "正统假面(距离)",
@@ -169,7 +169,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统假面"
     },
     {
@@ -180,11 +180,11 @@
       "refActorComparisonType": 6,
       "includeHitbox": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
+      "overlayTextColor": 3355471871,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
-      "overlayText": "正统贪吃鬼(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统贪吃鬼"
     },
     {
       "Name": "正统幽灵(距离)",
@@ -196,7 +196,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统幽灵"
     },
     {
@@ -207,11 +207,11 @@
       "refActorComparisonType": 6,
       "includeHitbox": true,
       "overlayVOffset": -0.5,
-      "overlayTextColor": 4285464776,
+      "overlayTextColor": 3355471871,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
-      "overlayText": "正统妖影(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统妖影"
     },
     {
       "Name": "正统妖影(巡逻怪箭头)",

@@ -20,8 +20,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统梦魔(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统梦魔"
     },
     {
       "Name": "正统小魔精(视线)",
@@ -38,7 +38,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统小魔精"
     },
     {
@@ -56,7 +56,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统扎哈克"
     },
     {
@@ -74,7 +74,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统榴弹怪"
     },
     {
@@ -92,7 +92,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统恶魔"
     },
     {
@@ -110,7 +110,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统贝希摩斯"
     },
     {
@@ -128,8 +128,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统幽鬼之眼(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统幽鬼之眼"
     },
     {
       "Name": "正统尸龙(视线)",
@@ -146,7 +146,7 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统尸龙"
     },
     {
@@ -164,8 +164,8 @@
       "includeRotation": true,
       "Filled": true,
       "overlayVOffset": -0.5,
-      "fillIntensity": 0.15,
-      "overlayText": "正统瓦沙克(巡逻怪)"
+      "fillIntensity": 0.1,
+      "overlayText": "正统瓦沙克"
     },
     {
       "Name": "正统浮灵(声音)",
@@ -177,7 +177,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统浮灵"
     },
     {
@@ -190,7 +190,7 @@
       "includeHitbox": true,
       "overlayVOffset": -0.5,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统塔纳托斯"
     },
     {
@@ -203,7 +203,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统钢铁之爪"
     },
     {
@@ -216,7 +216,7 @@
       "overlayVOffset": -0.5,
       "color": 4278190280,
       "thicc": 1,
-      "fillIntensity": 0.15,
+      "fillIntensity": 0.1,
       "overlayText": "正统水元精"
     },
     {
