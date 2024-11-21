@@ -1,0 +1,1297 @@
+{
+  "12100": {
+    "Name": "Excalibur",
+    "Id": 12100,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12102": {
+    "Name": "Administrator",
+    "Id": 12102,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12106": {
+    "Name": "undead Orthos dragon",
+    "Id": 12106,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12107": {
+    "Name": "Orthos Thanatos",
+    "Id": 12107,
+    "Aggro": "Sound",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12108": {
+    "Name": "Orthos succubus",
+    "Id": 12108,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12109": {
+    "Name": "Orthos behemoth",
+    "Id": 12109,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12110": {
+    "Name": "Orthos grenade",
+    "Id": 12110,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12111": {
+    "Name": "Orthos dahak",
+    "Id": 12111,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12112": {
+    "Name": "Orthos imp",
+    "Id": 12112,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12113": {
+    "Name": "Orthos demon",
+    "Id": 12113,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12114": {
+    "Name": "Orthos fachan",
+    "Id": 12114,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12115": {
+    "Name": "Orthos vassago",
+    "Id": 12115,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12116": {
+    "Name": "Orthos bhoot",
+    "Id": 12116,
+    "Aggro": "Sound",
+    "DangerLevel": "Easy",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12117": {
+    "Name": "orthoiron claw",
+    "Id": 12117,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12118": {
+    "Name": "Orthos water sprite",
+    "Id": 12118,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12119": {
+    "Name": "orthohunter",
+    "Id": 12119,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12120": {
+    "Name": "Orthosystem β",
+    "Id": 12120,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12121": {
+    "Name": "Orthos microsystem",
+    "Id": 12121,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12122": {
+    "Name": "orthosoldier",
+    "Id": 12122,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12123": {
+    "Name": "Orthos wood golem",
+    "Id": 12123,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12124": {
+    "Name": "Orthos groundskeeper",
+    "Id": 12124,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12125": {
+    "Name": "Orthos keter",
+    "Id": 12125,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12126": {
+    "Name": "Orthos rafflesia",
+    "Id": 12126,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12127": {
+    "Name": "Orthos sawtooth",
+    "Id": 12127,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12128": {
+    "Name": "Orthos netzach",
+    "Id": 12128,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12129": {
+    "Name": "Orthos spirulina",
+    "Id": 12129,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12130": {
+    "Name": "great Orthos morbol",
+    "Id": 12130,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12131": {
+    "Name": "Orthos belladonna",
+    "Id": 12131,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12132": {
+    "Name": "orthodemolisher",
+    "Id": 12132,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12133": {
+    "Name": "orthoknight",
+    "Id": 12133,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12134": {
+    "Name": "orthodroid",
+    "Id": 12134,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12135": {
+    "Name": "orthogiant",
+    "Id": 12135,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12136": {
+    "Name": "Orthokaliya",
+    "Id": 12136,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12137": {
+    "Name": "Orthos biast",
+    "Id": 12137,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12138": {
+    "Name": "lesser Orthos dragon",
+    "Id": 12138,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12139": {
+    "Name": "Orthos wyvern",
+    "Id": 12139,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12140": {
+    "Name": "orthoblue dragon",
+    "Id": 12140,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12141": {
+    "Name": "Orthos vouivre",
+    "Id": 12141,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12142": {
+    "Name": "Orthos brobinyak",
+    "Id": 12142,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12143": {
+    "Name": "Orthos vanara",
+    "Id": 12143,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12144": {
+    "Name": "orthoshelled dragon",
+    "Id": 12144,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12145": {
+    "Name": "orthobug",
+    "Id": 12145,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12146": {
+    "Name": "orthospider",
+    "Id": 12146,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12147": {
+    "Name": "orthopredator",
+    "Id": 12147,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12148": {
+    "Name": "phantom orthoray",
+    "Id": 12148,
+    "Aggro": "Sight",
+    "DangerLevel": "Caution",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12149": {
+    "Name": "Orthos mirrorknight",
+    "Id": 12149,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12150": {
+    "Name": "orthotaur",
+    "Id": 12150,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12151": {
+    "Name": "Orthos reptoid",
+    "Id": 12151,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12152": {
+    "Name": "orthochimera",
+    "Id": 12152,
+    "Aggro": "Proximity",
+    "DangerLevel": "Caution",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12153": {
+    "Name": "Orthos shabti",
+    "Id": 12153,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12154": {
+    "Name": "orthoiksalion",
+    "Id": 12154,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12155": {
+    "Name": "orthonaga",
+    "Id": 12155,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12156": {
+    "Name": "orthoempuse",
+    "Id": 12156,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12157": {
+    "Name": "Orthos lamia",
+    "Id": 12157,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12158": {
+    "Name": "Orthos gelato",
+    "Id": 12158,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12159": {
+    "Name": "Orthos spriggan",
+    "Id": 12159,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12160": {
+    "Name": "Orthos bergthurs",
+    "Id": 12160,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12161": {
+    "Name": "Orthos apa",
+    "Id": 12161,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12162": {
+    "Name": "Orthos Kelpie",
+    "Id": 12162,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12163": {
+    "Name": "Orthos kukulkan",
+    "Id": 12163,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12164": {
+    "Name": "Orthos hoarhound",
+    "Id": 12164,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12165": {
+    "Name": "Orthos huwasi",
+    "Id": 12165,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12166": {
+    "Name": "Orthos Acheron",
+    "Id": 12166,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12167": {
+    "Name": "Orthos abaia",
+    "Id": 12167,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12168": {
+    "Name": "Orthos goobbue",
+    "Id": 12168,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12169": {
+    "Name": "Orthos Hedetet",
+    "Id": 12169,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12170": {
+    "Name": "Orthos mudman",
+    "Id": 12170,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12171": {
+    "Name": "Orthos banshee",
+    "Id": 12171,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12172": {
+    "Name": "Orthos monk",
+    "Id": 12172,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12173": {
+    "Name": "Orthos stingray",
+    "Id": 12173,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12174": {
+    "Name": "Orthos Oceanus",
+    "Id": 12174,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12175": {
+    "Name": "Orthos big claw",
+    "Id": 12175,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12176": {
+    "Name": "Orthos yabby",
+    "Id": 12176,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12177": {
+    "Name": "Orthos piranu",
+    "Id": 12177,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12178": {
+    "Name": "Orthos leech",
+    "Id": 12178,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12179": {
+    "Name": "Orthos zaratan",
+    "Id": 12179,
+    "Aggro": "Sound",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12180": {
+    "Name": "Orthos ice sprite",
+    "Id": 12180,
+    "Aggro": "Proximity",
+    "DangerLevel": "Caution",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12181": {
+    "Name": "Orthos bombfish",
+    "Id": 12181,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12182": {
+    "Name": "Orthos rockfin",
+    "Id": 12182,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12183": {
+    "Name": "Orthos ymir",
+    "Id": 12183,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12184": {
+    "Name": "Orthos pteroc",
+    "Id": 12184,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12185": {
+    "Name": "Orthos drake",
+    "Id": 12185,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12186": {
+    "Name": "Orthos cobra",
+    "Id": 12186,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12187": {
+    "Name": "Orthos monitor",
+    "Id": 12187,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12188": {
+    "Name": "Orthos anala",
+    "Id": 12188,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12189": {
+    "Name": "Orthos diplocaulus",
+    "Id": 12189,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12190": {
+    "Name": "Orthos basilisk",
+    "Id": 12190,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12191": {
+    "Name": "Orthos matamata",
+    "Id": 12191,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12192": {
+    "Name": "Orthos palleon",
+    "Id": 12192,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12193": {
+    "Name": "Orthos falak",
+    "Id": 12193,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12194": {
+    "Name": "Orthos gowrow",
+    "Id": 12194,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12195": {
+    "Name": "orthoninja",
+    "Id": 12195,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12196": {
+    "Name": "Haokah perfected",
+    "Id": 12196,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12197": {
+    "Name": "Orthos toco toco",
+    "Id": 12197,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12198": {
+    "Name": "Orthos skatene",
+    "Id": 12198,
+    "Aggro": "Sound",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12199": {
+    "Name": "Orthos unicorn",
+    "Id": 12199,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12200": {
+    "Name": "Orthos coeurl",
+    "Id": 12200,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12201": {
+    "Name": "Orthos wolf",
+    "Id": 12201,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12202": {
+    "Name": "Orthos gulo gulo",
+    "Id": 12202,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12203": {
+    "Name": "Orthos sasquatch",
+    "Id": 12203,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12204": {
+    "Name": "Orthos primelephas",
+    "Id": 12204,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12205": {
+    "Name": "orthokunoichi",
+    "Id": 12205,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12206": {
+    "Name": "bird of Orthos",
+    "Id": 12206,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12207": {
+    "Name": "Orthos thunderbeast",
+    "Id": 12207,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12208": {
+    "Name": "Orthos flamebeast",
+    "Id": 12208,
+    "Aggro": "Sight",
+    "DangerLevel": "Caution",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12209": {
+    "Name": "Orthos kargas",
+    "Id": 12209,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12210": {
+    "Name": "Orthos deepeye",
+    "Id": 12210,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12211": {
+    "Name": "Orthos Spartoi",
+    "Id": 12211,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12212": {
+    "Name": "Orthos hecteyes",
+    "Id": 12212,
+    "Aggro": "Sound",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12213": {
+    "Name": "Orthos pudding",
+    "Id": 12213,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12214": {
+    "Name": "Orthos persona",
+    "Id": 12214,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12215": {
+    "Name": "Orthos gourmand",
+    "Id": 12215,
+    "Aggro": "Proximity",
+    "DangerLevel": "Caution",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12216": {
+    "Name": "Orthos ahriman",
+    "Id": 12216,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12217": {
+    "Name": "orthoiron corse",
+    "Id": 12217,
+    "Aggro": "Proximity",
+    "DangerLevel": "Caution",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12218": {
+    "Name": "Orthos catoblepas",
+    "Id": 12218,
+    "Aggro": "Sight",
+    "DangerLevel": "Caution",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12219": {
+    "Name": "Orthos pegasus",
+    "Id": 12219,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12220": {
+    "Name": "Orthos wraith",
+    "Id": 12220,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12221": {
+    "Name": "Orthos specter",
+    "Id": 12221,
+    "Aggro": "Proximity",
+    "DangerLevel": "Caution",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12222": {
+    "Name": "Orthos abyss",
+    "Id": 12222,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12223": {
+    "Name": "orthodrone",
+    "Id": 12223,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12224": {
+    "Name": "Orthosystem γ",
+    "Id": 12224,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12225": {
+    "Name": "Orthos Mithridates",
+    "Id": 12225,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12226": {
+    "Name": "orthonaught",
+    "Id": 12226,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12227": {
+    "Name": "Orthos fitter",
+    "Id": 12227,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12228": {
+    "Name": "Orthos sphinx",
+    "Id": 12228,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12229": {
+    "Name": "Orthosystem α",
+    "Id": 12229,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12230": {
+    "Name": "Orthos zaghnal",
+    "Id": 12230,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12231": {
+    "Name": "Orthos mining drone",
+    "Id": 12231,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12232": {
+    "Name": "Orthos motherbit",
+    "Id": 12232,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12233": {
+    "Name": "servomechanical orthochimera",
+    "Id": 12233,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12234": {
+    "Name": "servomechanical orthotaur",
+    "Id": 12234,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "True",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12235": {
+    "Name": "Orthos Durga",
+    "Id": 12235,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12240": {
+    "Name": "Gancanagh",
+    "Id": 12240,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12242": {
+    "Name": "Tiamat clone",
+    "Id": 12242,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12246": {
+    "Name": "aeturna",
+    "Id": 12246,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12247": {
+    "Name": "Proto-Kaliya",
+    "Id": 12247,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12261": {
+    "Name": "cloning node",
+    "Id": 12261,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12263": {
+    "Name": "Twintania clone",
+    "Id": 12263,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12265": {
+    "Name": "servomechanical chimera 14X",
+    "Id": 12265,
+    "Aggro": "Proximity",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12267": {
+    "Name": "servomechanical minotaur 16",
+    "Id": 12267,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "True",
+    "Special": ""
+  },
+  "12318": {
+    "Name": "Orthos craklaw",
+    "Id": 12318,
+    "Aggro": "Sight",
+    "DangerLevel": "Easy",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": ""
+  },
+  "12322": {
+    "Name": "lamia queen",
+    "Id": 12322,
+    "Aggro": "Proximity",
+    "DangerLevel": "Danger",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": "True"
+  },
+  "12323": {
+    "Name": "Meracydian clone",
+    "Id": 12323,
+    "Aggro": "Sight",
+    "DangerLevel": "Danger",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": "True"
+  },
+  "12324": {
+    "Name": "Demi-Cochma",
+    "Id": 12324,
+    "Aggro": "Sight",
+    "DangerLevel": "Danger",
+    "Patrol": "",
+    "BossOrAdd": "",
+    "Special": "True"
+  }
+}

@@ -1,0 +1,3 @@
+export const RED_COLOR = 4278190280
+export const PURPLE_COLOR = 3590365384
+export const ORANGE_COLOR = 4285464776
