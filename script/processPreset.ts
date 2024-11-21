@@ -12,8 +12,8 @@ const rawFiles = await fs.readdir(rawDir)
 const mobsData = JSON.parse(await fs.readFile(path.join(process.cwd(), './data/mobDatabase.json'), 'utf-8'))
 
 rawFiles.forEach(async (rawFile) => {
-  // if (rawFile !== '1-10.json')
-  //   return
+  if (!rawFile.includes('-'))
+    return
 
   const fileBasename = path.basename(rawFile, path.extname(rawFile))
   const rawFilePath = path.join(rawDir, rawFile)
@@ -90,7 +90,7 @@ rawFiles.forEach(async (rawFile) => {
     // 处理视线怪
     if (oldName.includes('(Sight)')) {
       elements[i].Name = `${l10nName}(视线)`
-      elements[i].Color = RED_COLOR
+      elements[i].color = RED_COLOR
       elements[i].thicc = 1
       elements[i].fillIntensity = 0.15
       elements[i].overlayText = `${l10nName}${overlayTextSuffix}`
@@ -98,7 +98,7 @@ rawFiles.forEach(async (rawFile) => {
     // 处理声音怪
     else if (oldName.includes('(Sound)')) {
       elements[i].Name = `${l10nName}(声音)`
-      elements[i].Color = PURPLE_COLOR
+      elements[i].color = PURPLE_COLOR
       elements[i].thicc = 1
       elements[i].fillIntensity = 0.15
       elements[i].overlayText = `${l10nName}${overlayTextSuffix}`
@@ -106,7 +106,7 @@ rawFiles.forEach(async (rawFile) => {
     // 处理距离怪
     else if (oldName.includes('(Proximity)')) {
       elements[i].Name = `${l10nName}(距离)`
-      elements[i].Color = RED_COLOR
+      elements[i].color = RED_COLOR
       elements[i].thicc = 1
       elements[i].fillIntensity = 0.15
       elements[i].overlayText = `${l10nName}${overlayTextSuffix}`
