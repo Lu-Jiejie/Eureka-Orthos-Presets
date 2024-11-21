@@ -4,6 +4,12 @@
 
 基于 [Splatoon Presets List](https://github.com/cptjabberwock/SplatoonPresetsList/tree/main/Community%20Presets/Deep%20Dungeons/Eureka%20Orthos) 修改，参考 [NecroLens](https://github.com/RedAsteroid/NecroLens) 的风格的正统优雷卡 [Splatoon](https://github.com/PunishXIV/Splatoon) 预设。
 
+## 功能
+
++ 怪物引战范围，巡逻怪指示箭头等
++ 宝箱、传送点标记
++ 玩家判定点
+
 ## 使用
 
 将 [preset](./preset) 的文件内的脚本，导入到你的 Splatoon 中即可。
