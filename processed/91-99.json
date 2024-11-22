@@ -149,7 +149,7 @@
       "Name": "正统采掘无人机(声音)",
       "type": 1,
       "radius": 10,
-      "color": 3590365384,
+      "color": 4294902015,
       "refActorNPCNameID": 12231,
       "refActorComparisonType": 6,
       "includeHitbox": true,
@@ -251,7 +251,9 @@
       "AdditionalRotation": 4.712389,
       "refActorTetherTimeMin": 0,
       "refActorTetherTimeMax": 0,
-      "FillStep": 15
+      "FillStep": 15,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统自控化奇美拉(巡逻怪箭头)",
@@ -269,7 +271,9 @@
       "AdditionalRotation": 4.712389,
       "refActorTetherTimeMin": 0,
       "refActorTetherTimeMax": 0,
-      "FillStep": 15
+      "FillStep": 15,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统自控化弥诺陶洛斯(巡逻怪箭头)",
@@ -287,7 +291,9 @@
       "AdditionalRotation": 4.712389,
       "refActorTetherTimeMin": 0,
       "refActorTetherTimeMax": 0,
-      "FillStep": 15
+      "FillStep": 15,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     }
   ],
   "MaxDistance": 200,

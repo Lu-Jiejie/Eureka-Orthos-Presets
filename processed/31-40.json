@@ -179,7 +179,7 @@
       "includeHitbox": true,
       "includeRotation": true,
       "Filled": true,
-      "overlayTextColor": 3355471871,
+      "overlayTextColor": 4278218751,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
       "overlayText": "正统幻影光",
@@ -190,7 +190,7 @@
       "Name": "正统疫虫(声音)",
       "type": 1,
       "radius": 10,
-      "color": 3590365384,
+      "color": 4294902015,
       "refActorNPCNameID": 12156,
       "refActorComparisonType": 6,
       "includeHitbox": true,
@@ -205,7 +205,7 @@
       "Name": "正统蜘蛛(声音)",
       "type": 1,
       "radius": 10,
-      "color": 3590365384,
+      "color": 4294902015,
       "refActorNPCNameID": 12146,
       "refActorComparisonType": 6,
       "includeHitbox": true,
@@ -239,7 +239,7 @@
       "FillStep": 15,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayTextColor": 3355471871,
+      "overlayTextColor": 4278218751,
       "color": 4278190280,
       "overlayVOffset": -0.5,
       "thicc": 1,
@@ -264,7 +264,9 @@
       "AdditionalRotation": 4.712389,
       "refActorTetherTimeMin": 0,
       "refActorTetherTimeMax": 0,
-      "FillStep": 15
+      "FillStep": 15,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统那迦(巡逻怪箭头)",
@@ -282,7 +284,9 @@
       "AdditionalRotation": 4.712389,
       "refActorTetherTimeMin": 0,
       "refActorTetherTimeMax": 0,
-      "FillStep": 15
+      "FillStep": 15,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统镜骑士(巡逻怪箭头)",
@@ -300,7 +304,9 @@
       "AdditionalRotation": 4.712389,
       "refActorTetherTimeMin": 0,
       "refActorTetherTimeMax": 0,
-      "FillStep": 15
+      "FillStep": 15,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     }
   ],
   "MaxDistance": 200,

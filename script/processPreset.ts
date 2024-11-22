@@ -69,6 +69,8 @@ rawFiles.forEach(async (rawFile) => {
         refActorTetherTimeMin: 0.0,
         refActorTetherTimeMax: 0.0,
         FillStep: 15.0,
+        refTargetYou: true,
+        refActorTargetingYou: 1,
       })
     }
     else if (mobInfo.Patrol === 'True') {

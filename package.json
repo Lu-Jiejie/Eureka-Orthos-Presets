@@ -36,15 +36,7 @@
     "dist"
   ],
   "scripts": {
-    "dev": "unbuild --stub",
-    "build": "unbuild",
-    "lint": "eslint .",
-    "release": "bumpp && npm publish",
-    "start": "esno src/index.ts",
-    "test": "vitest",
-    "typecheck": "tsc --noEmit",
-    "prepublishOnly": "nr build",
-    "prepare": "simple-git-hooks"
+    "process": "esno ./script/processPreset.ts"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.18.1",
