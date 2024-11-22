@@ -21,7 +21,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统眼镜蛇"
+      "overlayText": "正统眼镜蛇",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统玛塔蛇颈龟(视线)",
@@ -39,7 +41,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统玛塔蛇颈龟"
+      "overlayText": "正统玛塔蛇颈龟",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统翼蜥(视线)",
@@ -57,7 +61,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统翼蜥"
+      "overlayText": "正统翼蜥",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统飞巨蜥(视线)",
@@ -75,7 +81,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统飞巨蜥"
+      "overlayText": "正统飞巨蜥",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统高牢怪龙(视线)",
@@ -93,7 +101,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统高牢怪龙"
+      "overlayText": "正统高牢怪龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统烈阳火蛟(视线)",
@@ -111,7 +121,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统烈阳火蛟"
+      "overlayText": "正统烈阳火蛟",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统石蜥蜴(视线)",
@@ -129,7 +141,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统石蜥蜴"
+      "overlayText": "正统石蜥蜴",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统阿那罗(视线)",
@@ -147,7 +161,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统阿那罗"
+      "overlayText": "正统阿那罗",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统哈奥卡(视线)",
@@ -165,7 +181,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统哈奥卡"
+      "overlayText": "正统哈奥卡",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统法拉克(视线)",
@@ -183,7 +201,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统法拉克"
+      "overlayText": "正统法拉克",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统侏儒避役(视线)",
@@ -201,7 +221,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统侏儒避役"
+      "overlayText": "正统侏儒避役",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统忍者(距离)",
@@ -210,11 +232,13 @@
       "refActorNPCNameID": 12195,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统忍者"
+      "overlayText": "正统忍者",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统笠头螈(距离)",
@@ -223,11 +247,13 @@
       "refActorNPCNameID": 12189,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统笠头螈"
+      "overlayText": "正统笠头螈",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统忍者(巡逻怪箭头)",

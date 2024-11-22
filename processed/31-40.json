@@ -21,7 +21,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统改造鸟人"
+      "overlayText": "正统改造鸟人",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统沙布提(视线)",
@@ -39,7 +41,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统沙布提"
+      "overlayText": "正统沙布提",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统镜骑士(视线)",
@@ -57,7 +61,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统镜骑士"
+      "overlayText": "正统镜骑士",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统拉米亚(视线)",
@@ -75,7 +81,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统拉米亚"
+      "overlayText": "正统拉米亚",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统那迦(视线)",
@@ -93,7 +101,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统那迦"
+      "overlayText": "正统那迦",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统铁血战士(视线)",
@@ -111,7 +121,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统铁血战士"
+      "overlayText": "正统铁血战士",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统弥诺陶洛斯(视线)",
@@ -129,7 +141,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统弥诺陶洛斯"
+      "overlayText": "正统弥诺陶洛斯",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统爬虫半人马(视线)",
@@ -147,7 +161,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统爬虫半人马"
+      "overlayText": "正统爬虫半人马",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统幻影光(视线)",
@@ -163,10 +179,12 @@
       "includeHitbox": true,
       "includeRotation": true,
       "Filled": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
+      "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统幻影光"
+      "overlayText": "正统幻影光",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统疫虫(声音)",
@@ -179,7 +197,9 @@
       "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统疫虫"
+      "overlayText": "正统疫虫",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统蜘蛛(声音)",
@@ -192,7 +212,9 @@
       "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统蜘蛛"
+      "overlayText": "正统蜘蛛",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统发条虫(距离)",
@@ -201,11 +223,13 @@
       "refActorNPCNameID": 12145,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统发条虫"
+      "overlayText": "正统发条虫",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统奇美拉(距离)",
@@ -215,12 +239,14 @@
       "FillStep": 15,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统奇美拉"
+      "overlayText": "正统奇美拉",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统幻影光(巡逻怪箭头)",

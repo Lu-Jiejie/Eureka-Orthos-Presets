@@ -21,7 +21,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统双足飞龙"
+      "overlayText": "正统双足飞龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统布罗宾雅克(视线)",
@@ -39,7 +41,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统布罗宾雅克"
+      "overlayText": "正统布罗宾雅克",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统铁巨人(视线)",
@@ -57,7 +61,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统铁巨人"
+      "overlayText": "正统铁巨人",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统骑士(视线)",
@@ -75,7 +81,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统骑士"
+      "overlayText": "正统骑士",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统机甲(视线)",
@@ -93,7 +101,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统机甲"
+      "overlayText": "正统机甲",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统雷蛟(视线)",
@@ -111,7 +121,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统雷蛟"
+      "overlayText": "正统雷蛟",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统蓝龙(视线)",
@@ -129,7 +141,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统蓝龙"
+      "overlayText": "正统蓝龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统薇薇尔飞龙(视线)",
@@ -147,7 +161,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统薇薇尔飞龙"
+      "overlayText": "正统薇薇尔飞龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统婆那罗(视线)",
@@ -165,7 +181,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统婆那罗"
+      "overlayText": "正统婆那罗",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统卡利亚(视线)",
@@ -183,7 +201,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统卡利亚"
+      "overlayText": "正统卡利亚",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统龟甲龙(视线)",
@@ -201,7 +221,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统龟甲龙"
+      "overlayText": "正统龟甲龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统小龙(视线)",
@@ -219,7 +241,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统小龙"
+      "overlayText": "正统小龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统破坏者(距离)",
@@ -228,11 +252,13 @@
       "refActorNPCNameID": 12132,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统破坏者"
+      "overlayText": "正统破坏者",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统小龙(巡逻怪箭头)",

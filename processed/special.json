@@ -22,7 +22,6 @@
       "coneAngleMin": -45,
       "coneAngleMax": 45,
       "color": 4278190280,
-      "thicc": 1,
       "refActorNPCNameID": 12322,
       "FillStep": 15.0,
       "refActorComparisonType": 6,
@@ -32,7 +31,10 @@
       "overlayVOffset": -0.5,
       "fillIntensity": 0.15,
       "overlayText": "拉米亚女王",
-      "overlayTextColor": 4278190280
+      "overlayTextColor": 4278190280,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1,
+      "thicc": 1
     },
     {
       "Name": "精英怪-美拉西迪亚复制体(视线)",
@@ -41,7 +43,6 @@
       "coneAngleMin": -45,
       "coneAngleMax": 45,
       "color": 4278190280,
-      "thicc": 0.0,
       "refActorNPCNameID": 12323,
       "FillStep": 15.0,
       "refActorComparisonType": 6,
@@ -51,7 +52,10 @@
       "overlayVOffset": -0.5,
       "fillIntensity": 0.15,
       "overlayText": "美拉西迪亚复制体",
-      "overlayTextColor": 4278190280
+      "overlayTextColor": 4278190280,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1,
+      "thicc": 1
     },
     {
       "Name": "精英怪-亚灵智慧之灵(视线)",
@@ -60,7 +64,6 @@
       "coneAngleMin": -45,
       "coneAngleMax": 45,
       "color": 4278190280,
-      "thicc": 0.0,
       "refActorNPCNameID": 12324,
       "FillStep": 15.0,
       "refActorComparisonType": 6,
@@ -70,7 +73,10 @@
       "overlayVOffset": -0.5,
       "fillIntensity": 0.15,
       "overlayText": "亚灵智慧之灵",
-      "overlayTextColor": 4278190280
+      "overlayTextColor": 4278190280,
+      "refTargetYou": true,
+      "refActorTargetingYou": 1,
+      "thicc": 1
     }
   ],
   "MaxDistance": 200.0,

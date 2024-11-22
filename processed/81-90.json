@@ -19,10 +19,12 @@
       "includeHitbox": true,
       "includeRotation": true,
       "Filled": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
+      "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统卡托布莱帕斯"
+      "overlayText": "正统卡托布莱帕斯",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统深瞳(视线)",
@@ -40,7 +42,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统深瞳"
+      "overlayText": "正统深瞳",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统软糊怪(视线)",
@@ -58,7 +62,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统软糊怪"
+      "overlayText": "正统软糊怪",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统深渊(视线)",
@@ -76,7 +82,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统深渊"
+      "overlayText": "正统深渊",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统地生人(视线)",
@@ -94,7 +102,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统地生人"
+      "overlayText": "正统地生人",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统黑天马(视线)",
@@ -112,7 +122,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统黑天马"
+      "overlayText": "正统黑天马",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统冥鬼之眼(视线)",
@@ -130,7 +142,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统冥鬼之眼"
+      "overlayText": "正统冥鬼之眼",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统百目妖(声音)",
@@ -143,7 +157,9 @@
       "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统百目妖"
+      "overlayText": "正统百目妖",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统铁面腐尸(距离)",
@@ -152,12 +168,14 @@
       "refActorNPCNameID": 12217,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统铁面腐尸"
+      "overlayText": "正统铁面腐尸",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统假面(距离)",
@@ -166,11 +184,13 @@
       "refActorNPCNameID": 12214,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统假面"
+      "overlayText": "正统假面",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统贪吃鬼(距离)",
@@ -179,12 +199,14 @@
       "refActorNPCNameID": 12215,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统贪吃鬼"
+      "overlayText": "正统贪吃鬼",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统幽灵(距离)",
@@ -193,11 +215,13 @@
       "refActorNPCNameID": 12220,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统幽灵"
+      "overlayText": "正统幽灵",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统妖影(距离)",
@@ -206,12 +230,14 @@
       "refActorNPCNameID": 12221,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统妖影"
+      "overlayText": "正统妖影",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统妖影(巡逻怪箭头)",

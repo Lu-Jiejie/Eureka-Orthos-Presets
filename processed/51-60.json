@@ -21,7 +21,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统俄刻阿诺斯"
+      "overlayText": "正统俄刻阿诺斯",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统尤弥尔(视线)",
@@ -39,7 +41,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统尤弥尔"
+      "overlayText": "正统尤弥尔",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统石鳍鲨(视线)",
@@ -57,7 +61,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统石鳍鲨"
+      "overlayText": "正统石鳍鲨",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统冰元精(视线)",
@@ -73,10 +79,12 @@
       "includeHitbox": true,
       "includeRotation": true,
       "Filled": true,
-      "overlayVOffset": -0.5,
       "overlayTextColor": 3355471871,
+      "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统冰元精"
+      "overlayText": "正统冰元精",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统水蛭(视线)",
@@ -94,7 +102,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统水蛭"
+      "overlayText": "正统水蛭",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统虾蛄(视线)",
@@ -112,7 +122,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统虾蛄"
+      "overlayText": "正统虾蛄",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统大螯陆蟹(视线)",
@@ -130,7 +142,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统大螯陆蟹"
+      "overlayText": "正统大螯陆蟹",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统裂钳蟹(视线)",
@@ -148,7 +162,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统裂钳蟹"
+      "overlayText": "正统裂钳蟹",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统爆弹鱼(视线)",
@@ -166,7 +182,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统爆弹鱼"
+      "overlayText": "正统爆弹鱼",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统皮拉鱼(视线)",
@@ -184,7 +202,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统皮拉鱼"
+      "overlayText": "正统皮拉鱼",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统刺魟(视线)",
@@ -202,7 +222,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统刺魟"
+      "overlayText": "正统刺魟",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统扎拉坦(声音)",
@@ -215,7 +237,9 @@
       "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统扎拉坦"
+      "overlayText": "正统扎拉坦",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统班西(距离)",
@@ -224,11 +248,13 @@
       "refActorNPCNameID": 12171,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统班西"
+      "overlayText": "正统班西",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统鬼鱼(距离)",
@@ -237,11 +263,13 @@
       "refActorNPCNameID": 12172,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统鬼鱼"
+      "overlayText": "正统鬼鱼",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统鬼鱼(巡逻怪箭头)",

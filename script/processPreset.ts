@@ -48,8 +48,6 @@ rawFiles.forEach(async (rawFile) => {
     const mobName = oldName.split(' (')[0].trim()
     const l10nName = l10n[mobName]
 
-    elements[i].overlayVOffset = -0.5
-
     const mobInfo = mobsData[elements[i].refActorNPCNameID as number]
     let overlayTextPrefix = ''
     if (mobInfo.Patrol === 'True') {
@@ -91,26 +89,25 @@ rawFiles.forEach(async (rawFile) => {
     if (oldName.includes('(Sight)')) {
       elements[i].Name = `${l10nName}(视线)`
       elements[i].color = RED_COLOR
-      elements[i].thicc = 1
-      elements[i].fillIntensity = 0.1
-      elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
     }
     // 处理声音怪
     else if (oldName.includes('(Sound)')) {
       elements[i].Name = `${l10nName}(声音)`
       elements[i].color = PURPLE_COLOR
-      elements[i].thicc = 1
-      elements[i].fillIntensity = 0.1
-      elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
     }
     // 处理距离怪
     else if (oldName.includes('(Proximity)')) {
       elements[i].Name = `${l10nName}(距离)`
       elements[i].color = RED_COLOR
-      elements[i].thicc = 1
-      elements[i].fillIntensity = 0.1
-      elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
     }
+
+    //
+    elements[i].overlayVOffset = -0.5 // overlay偏移
+    elements[i].thicc = 1
+    elements[i].fillIntensity = 0.1
+    elements[i].overlayText = `${overlayTextPrefix}${l10nName}`
+    elements[i].refTargetYou = true
+    elements[i].refActorTargetingYou = 1
   }
   const jsonString = JSON.stringify(content, null, 2)
   await fs.writeFile(path.join(processedDir, `${fileBasename}.json`), jsonString)

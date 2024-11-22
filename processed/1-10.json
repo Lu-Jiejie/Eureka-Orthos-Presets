@@ -21,7 +21,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统梦魔"
+      "overlayText": "正统梦魔",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统小魔精(视线)",
@@ -39,7 +41,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统小魔精"
+      "overlayText": "正统小魔精",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统扎哈克(视线)",
@@ -57,7 +61,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统扎哈克"
+      "overlayText": "正统扎哈克",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统榴弹怪(视线)",
@@ -75,7 +81,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统榴弹怪"
+      "overlayText": "正统榴弹怪",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统恶魔(视线)",
@@ -93,7 +101,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统恶魔"
+      "overlayText": "正统恶魔",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统贝希摩斯(视线)",
@@ -111,7 +121,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统贝希摩斯"
+      "overlayText": "正统贝希摩斯",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统幽鬼之眼(视线)",
@@ -129,7 +141,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统幽鬼之眼"
+      "overlayText": "正统幽鬼之眼",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统尸龙(视线)",
@@ -147,7 +161,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统尸龙"
+      "overlayText": "正统尸龙",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统瓦沙克(视线)",
@@ -165,7 +181,9 @@
       "Filled": true,
       "overlayVOffset": -0.5,
       "fillIntensity": 0.1,
-      "overlayText": "正统瓦沙克"
+      "overlayText": "正统瓦沙克",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统浮灵(声音)",
@@ -178,7 +196,9 @@
       "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统浮灵"
+      "overlayText": "正统浮灵",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统塔纳托斯(声音)",
@@ -191,7 +211,9 @@
       "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统塔纳托斯"
+      "overlayText": "正统塔纳托斯",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统钢铁之爪(距离)",
@@ -200,11 +222,13 @@
       "refActorNPCNameID": 12117,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统钢铁之爪"
+      "overlayText": "正统钢铁之爪",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统水元精(距离)",
@@ -213,11 +237,13 @@
       "refActorNPCNameID": 12118,
       "refActorComparisonType": 6,
       "includeHitbox": true,
-      "overlayVOffset": -0.5,
       "color": 4278190280,
+      "overlayVOffset": -0.5,
       "thicc": 1,
       "fillIntensity": 0.1,
-      "overlayText": "正统水元精"
+      "overlayText": "正统水元精",
+      "refTargetYou": true,
+      "refActorTargetingYou": 1
     },
     {
       "Name": "正统瓦沙克(巡逻怪箭头)",
